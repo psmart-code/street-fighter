@@ -1,0 +1,28 @@
+body
+{
+    background-color: black;
+}
+.ryuCSS
+{
+    position: absolute;
+    left: 100px; 
+    top: 90px; 
+    height: 400px;
+    width: 250px;
+
+}
+.ryuImg
+{
+     
+    height: 90px;
+
+}
+
+.splash-game
+{
+    position: relative;
+    left: 100px;
+    height: 300px;
+    width: 350px;
+
+}
